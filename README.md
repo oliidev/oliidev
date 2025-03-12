@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1057318002577637426">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1057318002577637426?bg=0&amp;&amp;animated=true&amp;idleMessage=divent%20devin&amp;borderRadius=15px&amp;hideDiscrim=false" alt="Discord Presence">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1057318002577637426?bg=0&amp;&amp;animated=true&amp;idleMessage=definitely%20devin&amp;borderRadius=15px&amp;hideDiscrim=false" alt="Discord Presence">
   </a>
 </p>
 
