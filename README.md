@@ -26,15 +26,6 @@
 <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white">
 </p>
 
-<h2>Status</b></h2>
-<br>
-
-<p align="center">
-  <a href="https://discord.com/users/1057318002577637426">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1057318002577637426?bg=0&amp;&amp;animated=true&amp;idleMessage=definitely%20devin&amp;borderRadius=15px&amp;hideDiscrim=false" alt="Discord Presence">
-  </a>
-</p>
-
 <h2> Stats </b></h2>
 <br>
 
