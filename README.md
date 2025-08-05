@@ -1,7 +1,7 @@
 <h2>About Me</b></h2>
 
 - Olii
-- 17
+- 18
 - Comp Sci Student
 - United Kingdom
 
