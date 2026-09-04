@@ -1,8 +1,8 @@
 <h2>About Me</b></h2>
 
 - Olii
-- 18
-- Comp Sci Student
+- 19
+- Software QA / Tester
 - United Kingdom
 
 <h2>Skills</b></h2>
